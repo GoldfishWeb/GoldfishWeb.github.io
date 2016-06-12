@@ -4,9 +4,9 @@
   <subtitle>程序员</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://gaoxuefeng.com/"/>
+  <link href="http://goldfishweb.github.io/"/>
   <updated>2016-05-16T12:55:52.000Z</updated>
-  <id>http://gaoxuefeng.com/</id>
+  <id>http://goldfishweb.github.io/</id>
   
   <author>
     <name>sunchunqing</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>简易瀑布流布局</title>
-    <link href="http://gaoxuefeng.com/2016/05/06/%E7%AE%80%E6%98%93%E7%80%91%E5%B8%83%E6%B5%81%E5%B8%83%E5%B1%80/"/>
-    <id>http://gaoxuefeng.com/2016/05/06/简易瀑布流布局/</id>
+    <link href="http://goldfishweb.github.io/2016/05/06/%E7%AE%80%E6%98%93%E7%80%91%E5%B8%83%E6%B5%81%E5%B8%83%E5%B1%80/"/>
+    <id>http://goldfishweb.github.io/2016/05/06/简易瀑布流布局/</id>
     <published>2016-05-06T13:31:20.000Z</published>
     <updated>2016-05-16T12:55:52.000Z</updated>
     
@@ -66,14 +66,14 @@
     
     </summary>
     
-      <category term="test" scheme="http://gaoxuefeng.com/categories/test/"/>
+      <category term="test" scheme="http://goldfishweb.github.io/categories/test/"/>
     
     
-      <category term="javascript" scheme="http://gaoxuefeng.com/tags/javascript/"/>
+      <category term="javascript" scheme="http://goldfishweb.github.io/tags/javascript/"/>
     
-      <category term="css" scheme="http://gaoxuefeng.com/tags/css/"/>
+      <category term="css" scheme="http://goldfishweb.github.io/tags/css/"/>
     
-      <category term="html" scheme="http://gaoxuefeng.com/tags/html/"/>
+      <category term="html" scheme="http://goldfishweb.github.io/tags/html/"/>
     
   </entry>
   
