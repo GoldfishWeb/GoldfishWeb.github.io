@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Gaoxuefeng&#39;s Blog</title>
-  <subtitle>一个90后程序员，只是想再往前走得更远</subtitle>
+  <title>GoldfishWeb&#39;s Blog</title>
+  <subtitle>程序员</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gaoxuefeng.com/"/>
@@ -9,8 +9,8 @@
   <id>http://gaoxuefeng.com/</id>
   
   <author>
-    <name>Gaoxuefeng</name>
-    <email>gaoxuefeng@baidu.com</email>
+    <name>sunchunqing</name>
+    <email>1379107488@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
